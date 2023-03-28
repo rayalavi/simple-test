@@ -1,6 +1,6 @@
 sync:
     services:
-        load-test-svc:
+        service-crud:
             load-test-svc-instance: 
                 branch: main
                 spec: ./svc-specs-for-ss/original.yaml
