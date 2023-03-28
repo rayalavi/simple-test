@@ -4,4 +4,3 @@ sync:
             instance-1: 
                 branch: main
                 spec: ./svc-specs-for-ss/original.yaml
-            
