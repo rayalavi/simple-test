@@ -1,4 +1,1 @@
 template-file-path: ./simple-test/cfn-template.yaml
-
-parameters: 
-    QueueName: "hello"
