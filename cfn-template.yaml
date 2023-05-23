@@ -1,10 +1,6 @@
-Parameters:
-  QueueName:
-    Type: String
-
 Resources:
   MyQueue: 
     Type: "AWS::SQS::Queue"
     Properties: {
-      QueueName: !Ref QueueName
+      QueueName: "hello"
     }
